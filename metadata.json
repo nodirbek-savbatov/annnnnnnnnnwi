@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD Trading Academy",
+  "description": "0 dan professional darajagacha XAUUSD (Oltin) trading bo'yicha to'liq interaktiv o'zbekcha ta'lim platformasi va darslik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
